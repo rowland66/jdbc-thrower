@@ -1,4 +1,4 @@
-package org.melati;
+package com.mastercard.test.sql;
 
 import com.mastercard.test.sql.ThrowingDriver;
 import org.apache.ibatis.jdbc.ScriptRunner;
